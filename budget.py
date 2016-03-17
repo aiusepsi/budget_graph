@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 def personal_allowance(model, income):
     reduction = 0.0
     
